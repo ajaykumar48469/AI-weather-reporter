@@ -58,4 +58,4 @@ Released under the [Unlicense](LICENSE).
 
 ## Author
 
-**AJAYKUAMR**: [GitHub](https://github.com/Joenikson) · [Portfolio](https://simpleportfolioim.netlify.app)
+**AJAYKUMAR**: [GitHub](https://github.com/Joenikson) · [Portfolio](https://simpleportfolioim.netlify.app)
